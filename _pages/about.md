@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "Hi"
+title: "Wenting Xu"
 author_profile: true
+layout: home
 ---
 
 Welcome to my academic homepage!
