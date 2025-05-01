@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wenting Xu"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "The University of Sydney"
   location         : "Sydney, Australia"
   # employer         : "Red Brick University"
