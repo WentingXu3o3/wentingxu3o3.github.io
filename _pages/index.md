@@ -3,9 +3,6 @@ permalink: /
 title: "Wenting Xu"
 author_profile: true
 layout: home
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Welcome to my academic homepage!
