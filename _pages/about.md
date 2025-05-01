@@ -2,36 +2,8 @@
 permalink: /
 title: "Hi"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Come Soon
+Welcome to my academic homepage!
 
-A data-driven personal website
-======
-Come Soon2
-
-Getting started
-======
-Come Soon3
-
-Site-wide configuration
-------
-Come Soon4
-
-Create content & metadata
-------
-Come Soon5
-
-**Markdown generator**
-
-
-How to edit your site's GitHub repository
-------
-come soon
-
-For more info
-------
-come soon
+I am a PhD researcher at The University of Sydney. My research focuses on multimodal understanding, 3D scene reasoning, and vision-language models. You can find my [publications](/publications/), [CV](/cv/), and [contact](/contact/) information here.
